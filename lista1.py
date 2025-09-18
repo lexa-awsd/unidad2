@@ -1,0 +1,13 @@
+lista = ["Mary", "Nicol", "Diego", "Alejandro"]
+print (lista)
+print (lista [2])
+lista.append("Alexa")
+print (lista)
+lista.insert(1,"lexa")
+print (lista)
+lista.pop()
+print (lista)
+lista.remove("Nicol")
+print (lista)
+lista.pop(1)
+print (lista)
