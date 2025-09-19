@@ -1,6 +1,6 @@
 #Van a crear una lista vacia con su nombre y van a crear 5 elementos con input:
 #(Nombre, preparatoria, lugar de residencia, edad, carrera)
-print ("Lista Axel")
+print ("Lista de Axel:")
 lista_Axel = []
 
 nombre = input("Nombre: ")
