@@ -31,7 +31,3 @@ Biblioteca = {
 Isbn = "978-950-07-0002-7"
 Info_libro = Biblioteca.get(Isbn)
 print("\nInformación del libro:", Info_libro)
-
-# Convertir el diccionario completo a JSON (útil para guardar en archivo)
-json_str = json.dumps(Biblioteca, indent=2, ensure_ascii=False)
-print("\nBiblioteca completa en formato JSON:\n", json_str)
