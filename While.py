@@ -27,8 +27,8 @@ def opcion_tabla() -> None:
     for i in range(1, 11):
         print(f"{numero} × {i} = {numero * i}")
 
-#Bucle que imprime la fucnion seleccionada por el usuario, pero la condicion simpre sera verdadera
-#solo si el usuario selecciona 0 sera falsa y se detendra.
+#Bucle que imprime la fucnion seleccionada por el usuario, pero la condicion siempre sera verdadera
+#solo si el usuario selecciona 0, sera falsa y se detendra.
 # ---------- Bucle principal ----------
 continuar = True              
 while continuar:
